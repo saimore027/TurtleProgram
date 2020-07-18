@@ -19,7 +19,7 @@ print(float(2))
 string="Hello"
 print(string[0])
 print(string.lower())
-print(string.replace("Hello","Pooja ki maa Ka"))
+print(string.replace("Hello"))
 splitting=string.split(" ",4)
 print(splitting)
 
